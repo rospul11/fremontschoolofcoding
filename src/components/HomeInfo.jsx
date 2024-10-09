@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
-import { TypeAnimation } from 'react-type-animation'; // Ensure you're importing this from the correct package
+import { TypeAnimation } from 'react-type-animation';
+ // Ensure you're importing this from the correct package
 import Startclub from './Startclub';
 
 const HomeInfo = () => {
