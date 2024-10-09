@@ -17,17 +17,17 @@ const HomeInfo = () => {
       <div className='text-center pt-10 font-bold text-slate-50 text-3xl' style={{ fontSize: '2em', color: textColor }}>
         <TypeAnimation
           sequence={[
-            'We Code ..', 
-            2000, 
+            'We Code ..',
+            2000,
             () => setTextColor('#ff0054'), // Change text color
-            'We Learn ..', 
-            2000, 
+            'We Learn ..',
+            2000,
             () => setTextColor('#ffff3f'), // Change text color
-            'We Innovate ..', 
-            2000, 
+            'We Innovate ..',
+            2000,
             () => setTextColor('#a1ff0a'), // Change text color
-            'We Create ..', 
-            2000, 
+            'We Create ..',
+            2000,
             () => setTextColor('#0aefff'), // Change text color
           ]}
           wrapper="span"
