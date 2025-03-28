@@ -12,7 +12,7 @@ const HomeInfo = () => {
         className='text-center pt-20 font-bold text-7xl opacity-95 text-slate-50'
         style={{ fontFamily: 'Poppins, sans-serif' }}
       >
-        {'</ Fremont School of Coding >'}
+        {'Fremont School of Coding'}
       </h1>
       <div className='text-center pt-10 font-bold text-slate-50 text-3xl' style={{ fontSize: '2em', color: textColor }}>
         <TypeAnimation
